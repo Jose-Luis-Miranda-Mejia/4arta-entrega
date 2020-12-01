@@ -1,2 +1,2 @@
 # 4arta-entrega
-Ya estan bine los getters y setters
+Ya estan bien los getters y setters
